@@ -1,4 +1,4 @@
-![logo](https://github.com/Yoru-Kitsune/Simpledustry/assets/108625654/05d4f375-3428-4b21-97e6-d303be3d1ece)
+![logo](https://www.dropbox.com/scl/fi/lw7dxi0y74n9e4750cdpw/simplr.png?rlkey=iecudyqrblr8en4dxf189v1c4&dl=0)
 
 A Texture Pack that simplifies Mindustry -- modified by echocosm
 
