@@ -1,4 +1,4 @@
-![logo](https://www.dropbox.com/scl/fi/lw7dxi0y74n9e4750cdpw/simplr.png?rlkey=iecudyqrblr8en4dxf189v1c4&dl=1)
+![logo](https://github.com/echocosm/Simpledustry/blob/main/images/simplr.png)
 
 A Texture Pack that simplifies Mindustry -- modified by echocosm
 
