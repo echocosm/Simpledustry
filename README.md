@@ -6,6 +6,8 @@ A Texture Pack that simplifies Mindustry -- modified by echocosm
 
 echocosm changes
 >changed ore sprites in the world from colored lines to distinct icons, easier to distinguish
+
+
 >changed sand texture to stand out from non harvestable terrain
 ---
 
