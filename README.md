@@ -2,8 +2,11 @@
 
 A Texture Pack that simplifies Mindustry -- modified by echocosm
 
-![icon_1.5](https://github.com/Yoru-Kitsune/Simpledustry/assets/108625654/9659e93e-dd20-477b-90e7-09462cd48608)
+![icon](https://github.com/echocosm/Simplerdustry/blob/main/images/icon.png)
 
+echocosm changes
+>changed ore sprites in the world from colored lines to distinct icons, easier to distinguish
+>changed sand texture to stand out from non harvestable terrain
 ---
 
 This Mod is in early-development and removes details from the vanilla textures of Mindustry!
